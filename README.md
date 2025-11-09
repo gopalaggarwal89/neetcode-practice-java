@@ -1,5 +1,13 @@
 # NeetCode Practice in Java
 
-Goal: Sstrengthen problem solving & patterns.
-Tracking solutions by category (Arrays, Two Pointers, Sliding Window, etc).
+Goal: Strengthen problem solving & patterns.
 
+## Categories
+- Arrays & Hashing
+  - Easy
+  - Medium
+
+## Structure
+Solutions are organized by:
+1. Category (e.g., Arrays & Hashing, Two Pointers, Sliding Window)
+2. Difficulty (Easy, Medium, Hard)
